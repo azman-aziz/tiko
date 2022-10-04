@@ -13,9 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/flogin_siswa', function () {
+    return view('auth/loginpeserta');
+});
+Route::get('/flogin_guru', function () {
+    return view('auth/loginguru');
+});
+Route::get('/register', function () {
+    return view('auth/regitser');
+});
 Route::get('/', function () {
     return view('index_new');
 });
 Route::get('/login', function () {
     return view('index');
 });
+
+

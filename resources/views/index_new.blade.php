@@ -475,151 +475,51 @@
         <div class="d-flex flex-wrap">
           <div class="mx-auto card-item position-relative">
               <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top rounded" alt="...">
+                <img src="{!! asset('asset/teropong.png')!!}" class="card-img-top rounded" alt="...">
                 <br>
               <h2 class="price-value d-flex align-items-center">
-                <span>Teman Tidur </span>
+                <span>Digital Teropong</span>
               </h2>
               <p class="price-caption">
-                Buku Tidur Untuk anak yang mengalami traumatis
-              </p>
-              <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: Andhika Pratama
-                </p>
-                
-              </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
-                Baca Sekarang
-              </button>
-            </div>
-          </div>
-          <div class="mx-auto card-item position-relative">
-              <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://images.unsplash.com/photo-1558901357-ca41e027e43a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" class="card-img-top rounded" alt="...">
-                <br>
-              <h2 class="price-value d-flex align-items-center">
-                <span>Buku Healing </span>
-              </h2>
-              <p class="price-caption">
-                Buku Healing untuk penyembuhan teraumatis
-              </p>
-              <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: Yudha
-                </p>
-                
-              </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
-                Baca Sekarang
-              </button>
-            </div>
-          </div>
-          <div class="mx-auto card-item position-relative">
-              <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" class="card-img-top rounded" alt="...">
-                <br>
-              <h2 class="price-value d-flex align-items-center">
-                <span>Buku Produktifitas </span>
-              </h2>
-              <p class="price-caption">
-                Buku Produktifitas Membantu menagement waktumu
-              </p>
-              <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: haris
-                </p>
-                
-              </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
-                Baca Sekarang
-              </button>
-            </div>
-          </div>
-          <div class="mx-auto card-item position-relative">
-              <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80" class="card-img-top rounded" alt="...">
-                <br>
-              <h2 class="price-value d-flex align-items-center">
-                <span>Buku Lelah </span>
-              </h2>
-              <p class="price-caption">
-                Baca ini saat engkau lelah
-              </p>
-              <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: najib
-                </p>
-                
-              </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
-                Baca Sekarang
-              </button>
-            </div>
-          </div>
+                Hai, Petualang kamu harus tau !,
 
-          <div class="mx-auto card-item position-relative">
-              <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Ym9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top rounded" alt="...">
-                <br>
-              <h2 class="price-value d-flex align-items-center">
-                <span>Buku Amarah</span>
-              </h2>
-              <p class="price-caption">
-                Buku cocok untukmu saat tidak baik-baik saja
+                Buku ini Kumpulan Cerpen untuk kamu yang
+                suka belajar meneropong cerita masa lalu
+                dan masa depan
               </p>
               <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: Bayu
-                </p>
+
                 
               </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
+              <a href="https://drive.google.com/drive/folders/1FnS1JqnGU-aKjj4zgCksEstwMjrIdm6I?usp=sharing" class="btn btn-outline d-flex justify-content-center align-items-center w-100">
                 Baca Sekarang
-              </button>
+              </a>
             </div>
           </div>
           <div class="mx-auto card-item position-relative">
               <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
-                <img src="https://media.istockphoto.com/photos/man-reading-book-picture-id1364119199?b=1&k=20&m=1364119199&s=170667a&w=0&h=IkJR4C4L_uLyJOy4ocOEJHVniCxkYS6L5EbXqHeSy08=" class="card-img-top rounded" alt="...">
+                <img src="{!! asset('asset/ransel.png')!!}" class="card-img-top rounded" alt="...">
                 <br>
               <h2 class="price-value d-flex align-items-center">
-                <span>Notulensi </span>
+                <span>Digital Ransel</span>
               </h2>
               <p class="price-caption">
-                Tuliskan Perasaanmu
+                Hai, Petualang kamu harus tau !,
+
+                Buku ini Kumpulan materi berupa modul
+                dan lainnya untuk mengetahui Ilmu tentang
+                Materi Cerita pendek
               </p>
               <div class="price-list">
-                <p class="d-flex align-items-center check">
-                  <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
-                    <img class="img-fluid"
-                      src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                      alt="" /> </span>Penulis: Andhika Pratama
-                </p>
+
                 
               </div>
-              <button class="btn btn-outline d-flex justify-content-center align-items-center w-100">
+              <a href="https://drive.google.com/file/d/1QmsLzWHEe8rL7h8nxEAyaOUIB7067AxP/view?usp=sharing" class="btn btn-outline d-flex justify-content-center align-items-center w-100">
                 Baca Sekarang
-              </button>
+              </a>
             </div>
           </div>
-          
-          
+              
         </div>
         
       </div>
